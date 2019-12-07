@@ -31,6 +31,8 @@ plugins:
 # for local testing
 host: 0.0.0.0
 port: 4000
+livereload: true
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
