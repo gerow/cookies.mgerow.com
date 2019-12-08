@@ -1,0 +1,1 @@
+![Chocolate chip](/assets/chocolate-chip.svg){:width="30%"}
