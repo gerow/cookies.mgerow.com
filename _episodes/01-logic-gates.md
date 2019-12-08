@@ -2,7 +2,6 @@
 layout: post
 title: "Logic Gates"
 permalink: logic-gates
-date: 2019-12-07 16:42:46 -0500
 ---
 
 Logic gates are a fundamental building-block when it comes to describing
