@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: episode
 title: "Logic Gates"
 permalink: logic-gates
 ---
