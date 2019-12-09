@@ -21,6 +21,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cookies.mgerow.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mgerow
 github_username:  gerow
+google_analytics: UA-154174843-1
 
 collections:
   episodes:
